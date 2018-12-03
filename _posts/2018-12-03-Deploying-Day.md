@@ -1,3 +1,2 @@
-#My first Blog title
-
-Lorem impsum  _posts/YYYY-MM-DD-title.md
+title: "Blogging like a Hacker"
+date: 2018-12-04
